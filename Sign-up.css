@@ -1,0 +1,54 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.form{
+    max-width: 500px;
+    box-shadow: 0 0 10px 0 rgba(0, 24, 128, 0.1);
+    border-radius: 4px;
+    /* background-color: var(--white); */
+    border: 0;
+    padding: 15px;
+    height: 95vh;
+  
+}
+
+.detail{
+   
+}
+
+input{
+    width: 400px;
+    margin: 20px;
+    font-weight: bolder;
+    height: 46px;
+    border: none;
+    box-shadow: 0 0 5px 0;
+    border-radius: 4px;
+    padding-left: 25px;
+}
+
+label{
+    font-weight: bolder;
+    position: relative;
+    left: 25px;
+}
+
+.create{
+    border-radius: 2px;
+    width: 6rem;
+    height: 3rem;
+    border-color: blue;
+    color: blue;
+    background-color: white;
+    position: relative;
+    left: 23px;
+    top: 20px;
+}
+.create:hover{
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+}
