@@ -3392,6 +3392,16 @@ blockquote:before {
     color: #EFBB20;
     letter-spacing: 20px;
 }
+#header-logo img{
+    height: 50px;
+
+
+}
+#header-logo2 img{
+    height: 50px;
+    
+
+}
 
 /*= When header is sticky =*/
 
@@ -3421,6 +3431,16 @@ blockquote:before {
     .site-header .extra-nav,
     .site-header .is-fixed .extra-nav {
         padding: 8px 0;
+    }
+    #footer-logo {
+        height: 50px;
+    
+    
+    }
+    #footer-logo2 {
+        height: 50px;
+        
+    
     }
 }
 
@@ -8861,7 +8881,113 @@ a,
 }
 
 /* Outline Hover */
+ #face {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    line-height: 39px;
+    text-align: center;
+    /* text-decoration: none; */
+    margin: 5px 2px;
+    font-weight: 400;
+    background:  white;
+    color: black;
 
+
+  } 
+
+  #face:hover{
+    background: #4b69a8;
+    color: white;
+  }
+
+
+
+  #gol{
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    line-height: 39px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background:  #fff;
+    color:  black;
+   
+
+  }
+  #gol:hover{
+    background: #fe6e63;
+    color: #fff;;
+  }
+
+  
+  #link {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    line-height: 39px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: #fff;
+    color: black;
+
+  } 
+
+  #link:hover{
+    background:  #209bd6;
+    color: #fff;
+
+  }
+
+  
+  #insta {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    line-height: 39px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: #fff;
+    color: black;
+
+  } 
+
+  #insta:hover{
+    background:   #aa7a6e;
+    color: #fff;
+
+  }
+  
+
+
+  #twt {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    line-height: 39px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    
+    background: white;
+    color: black;
+
+  }
+  
+ #twt:hover{
+    background: #0e91e3;;
+    color: #fff;
+   
+   
+ }
 .site-button.facebook.outline:hover,
 .site-button.facebook.outline:focus,
 .site-button.facebook.outline:active {
