@@ -3403,6 +3403,18 @@ blockquote:before {
 
 }
 
+
+#footer-logo img {
+    height: 50px;
+
+
+}
+#footer-logo2 img {
+    height: 50px;
+    
+
+}
+
 /*= When header is sticky =*/
 
 /*= Set width for mobile  =*/
@@ -3432,16 +3444,7 @@ blockquote:before {
     .site-header .is-fixed .extra-nav {
         padding: 8px 0;
     }
-    #footer-logo {
-        height: 50px;
     
-    
-    }
-    #footer-logo2 {
-        height: 50px;
-        
-    
-    }
 }
 
 /*---------------------------------------------------------------
